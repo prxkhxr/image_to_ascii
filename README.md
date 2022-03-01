@@ -7,8 +7,8 @@ Python program using pygame, numpy and PIL packages. Converts image input to ASC
 -> Run the program.
 
 ## Example
-![Input Image](Assets/testSubject.jpg)
-![Output](Assets/testSubject_output.PNG)
+<img src="Assets/testSubject.jpg" alt="input image" width="400"/>
+<img src="Assets/testSubject_output.PNG" alt="pygame output" width="400"/>
 
 ## Things that work
 -> Using appropriate image path in main.py.\
