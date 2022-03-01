@@ -3,7 +3,7 @@ import numpy as np
 import math
 import pygame
 
-img = Image.open('Assets\\testboi1.jpg')
+img = Image.open('Assets\\testSubject.jpg')
 new_width = (img.width*90)//img.height
 img = img.resize((new_width,90))
 imarr = np.array(img)
