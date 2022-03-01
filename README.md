@@ -1,6 +1,15 @@
 # image_to_ascii
 Python program using pygame, numpy and PIL packages. Converts image input to ASCII character output.
 
+## How to run?
+-> Clone the repository on your pc.\
+-> Edit image path in main.py to pick your image.\
+-> Run the program.
+
+## Example
+![Input Image](Assets/testSubject.jpg)\
+![Output](Assets/testSubject_output.png)
+
 ## Things that work
 -> Using appropriate image path in main.py.\
 -> Proper dimensioning of Pygame window.
